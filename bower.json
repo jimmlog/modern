@@ -1,0 +1,24 @@
+{
+  "name": "modern",
+  "version": "1.9.0",
+  "description": "Modern Responsive Admin Theme",
+  "homepage": "https://github.com/jimmlog/modern",
+  "keywords": [
+    "modern",
+    "theme",
+    "1.9.0",
+    "assets"
+  ],
+  "authors": [
+    "Jimm Logan <jimmloga@gmail.com>"
+  ],
+  "main": "assets/css/modern.min.css",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

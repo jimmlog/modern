@@ -1,0 +1,31 @@
+{
+  "name": "jimmlog/modern",
+  "description": "Modern - Responsive Admin Dashboard Template",
+  "version": "1.9",
+  "keywords": [
+        "Modern",
+        "theme",
+        "1.9",
+        "assets"
+  ],
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "type": "library",
+  "homepage": "https://github.com/jimmlog/modern",
+  "authors": [
+    {
+      "name": "Jimm Logan",
+      "email": "jimmloga@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/jimmlog/modern/issues?state=open",
+    "source": "https://github.com/jimmlog/modern"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.9.x-dev"
+    }
+  }
+}
